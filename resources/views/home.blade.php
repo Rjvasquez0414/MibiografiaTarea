@@ -90,7 +90,7 @@
     <section id="trayectoria" class="timeline-section">
         <div class="container">
             <h2 class="section-title fade-in">
-                <span class="title-decoration">Mi Trayectoria</span>
+                <span class="title-decoration">Mi Trayectoria Hasta El Momento</span>
             </h2>
             
             <div class="timeline">
