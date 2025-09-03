@@ -253,11 +253,11 @@
                 <h2>Construyamos el futuro juntos</h2>
                 <p>Si compartes mi visión o quieres conocer más sobre mi trabajo, conectemos.</p>
                 <div class="cta-buttons">
-                    <a href="#" class="btn btn-primary">
-                        <i class="fas fa-envelope"></i> Contactar
+                    <a href="/experiencia" class="btn btn-primary">
+                        <i class="fas fa-briefcase"></i> Ver Mi Experiencia
                     </a>
                     <a href="#" class="btn btn-secondary">
-                        <i class="fab fa-linkedin"></i> LinkedIn
+                        <i class="fas fa-envelope"></i> Contactar
                     </a>
                 </div>
             </div>

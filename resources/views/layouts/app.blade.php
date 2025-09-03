@@ -25,10 +25,11 @@
                 <span class="brand-text">RJV</span>
             </div>
             <ul class="nav-menu">
-                <li><a href="#inicio" class="nav-link">Inicio</a></li>
-                <li><a href="#sobre-mi" class="nav-link">Sobre Mí</a></li>
-                <li><a href="#trayectoria" class="nav-link">Trayectoria</a></li>
-                <li><a href="#aspiraciones" class="nav-link">Aspiraciones</a></li>
+                <li><a href="/" class="nav-link">Inicio</a></li>
+                <li><a href="/#sobre-mi" class="nav-link">Sobre Mí</a></li>
+                <li><a href="/#trayectoria" class="nav-link">Trayectoria</a></li>
+                <li><a href="/experiencia" class="nav-link">Experiencia</a></li>
+                <li><a href="/#aspiraciones" class="nav-link">Aspiraciones</a></li>
             </ul>
             <div class="nav-toggle">
                 <span class="bar"></span>
