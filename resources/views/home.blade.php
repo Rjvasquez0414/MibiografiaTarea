@@ -18,10 +18,10 @@
                 <i class="fas fa-map-marker-alt"></i>
                 <span>Floridablanca, Santander - Colombia</span>
             </div>
-            <div class="scroll-indicator">
-                <span>Descubre mi historia</span>
-                <i class="fas fa-chevron-down"></i>
-            </div>
+        </div>
+        <div class="scroll-indicator">
+            <span>Descubre mi historia</span>
+            <i class="fas fa-chevron-down"></i>
         </div>
     </section>
 
