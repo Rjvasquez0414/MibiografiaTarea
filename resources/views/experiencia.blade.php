@@ -9,7 +9,7 @@
                     <span class="title-highlight">Experiencia</span> Profesional
                 </h1>
                 <p class="hero-description">
-                    Transformando ideas en soluciones digitales innovadoras!
+                    Transformando ideas en soluciones digitales innovadoras
                 </p>
                 <div class="hero-stats">
                     <div class="stat-item">
