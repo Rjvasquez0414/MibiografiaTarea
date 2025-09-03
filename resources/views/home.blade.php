@@ -96,10 +96,10 @@
             <div class="timeline">
                 <!-- Niñez -->
                 <div class="timeline-item fade-in">
-                    <div class="timeline-dot">
-                        <i class="fas fa-child"></i>
-                    </div>
                     <div class="timeline-content">
+                        <div class="timeline-dot">
+                            <i class="fas fa-child"></i>
+                        </div>
                         <h3>Mi Niñez</h3>
                         <span class="timeline-date">Los primeros años</span>
                         <p>
@@ -120,10 +120,10 @@
 
                 <!-- Adolescencia -->
                 <div class="timeline-item fade-in">
-                    <div class="timeline-dot">
-                        <i class="fas fa-graduation-cap"></i>
-                    </div>
                     <div class="timeline-content">
+                        <div class="timeline-dot">
+                            <i class="fas fa-graduation-cap"></i>
+                        </div>
                         <h3>Mi Adolescencia</h3>
                         <span class="timeline-date">Construyendo el futuro</span>
                         <p>
@@ -145,10 +145,10 @@
 
                 <!-- Actualidad -->
                 <div class="timeline-item fade-in">
-                    <div class="timeline-dot active">
-                        <i class="fas fa-laptop-code"></i>
-                    </div>
                     <div class="timeline-content">
+                        <div class="timeline-dot active">
+                            <i class="fas fa-laptop-code"></i>
+                        </div>
                         <h3>Actualidad</h3>
                         <span class="timeline-date">Presente</span>
                         <p>
