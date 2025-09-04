@@ -14,7 +14,7 @@
                     <span class="typing-text"></span>
                 </div>
                 <p class="hero-subtitle">
-                    Transformando líneas de código en soluciones innovadoras
+                    Transformando líneas de código en soluciones innovadoras.
                 </p>
                 <div class="code-stats">
                     <div class="stat-bubble">
