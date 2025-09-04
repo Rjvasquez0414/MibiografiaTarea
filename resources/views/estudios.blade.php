@@ -14,7 +14,7 @@
                     <span class="title-highlight">Académica</span>
                 </h1>
                 <p class="hero-description">
-                    Un viaje de aprendizaje continuo desde los primeros pasos hasta la excelencia profesional
+                    Un viaje de aprendizaje continuo desde los primeros pasos hasta la excelencia profesional.
                 </p>
                 <div class="education-stats">
                     <div class="stat-card">
