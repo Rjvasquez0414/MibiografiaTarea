@@ -13,3 +13,7 @@ Route::get('/experiencia', function () {
 Route::get('/habilidades', function () {
     return view('habilidades');
 });
+
+Route::get('/estudios', function () {
+    return view('estudios');
+});
