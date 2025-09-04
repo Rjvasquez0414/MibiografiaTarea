@@ -29,6 +29,7 @@
                 <li><a href="/#sobre-mi" class="nav-link">Sobre Mí</a></li>
                 <li><a href="/#trayectoria" class="nav-link">Trayectoria</a></li>
                 <li><a href="/experiencia" class="nav-link">Experiencia</a></li>
+                <li><a href="/habilidades" class="nav-link">Habilidades</a></li>
                 <li><a href="/#aspiraciones" class="nav-link">Aspiraciones</a></li>
             </ul>
             <div class="nav-toggle">
